@@ -1,0 +1,175 @@
+mkdir: cannot create directory `/home/jaideep/expts_5/output_n1024/pVsCs_CsOffset': File exists
+mkdir: cannot create directory `/home/jaideep/expts_5/output_n1024/pVsCs_CsOffset/data': File exists
+Found 3 CUDA Capable devices:
+0) Tesla K20c
+    Driver Version: 5.5
+    Runtime Version: 5.0
+    Compute Capability: 3.5
+    Multiprocessors: 13
+    Max threads per multiprocessor:  2048
+    Max threads per block: 1024
+    Shared Memory per block: 48 kB
+    Maximum sizes of each dimension of a block: 1024 x 1024 x 64
+
+1) GeForce 210
+    Driver Version: 5.5
+    Runtime Version: 5.0
+    Compute Capability: 1.2
+    Multiprocessors: 2
+    Max threads per multiprocessor:  1024
+    Max threads per block: 512
+    Shared Memory per block: 16 kB
+    Maximum sizes of each dimension of a block: 512 x 512 x 64
+
+2) Tesla K20c
+    Driver Version: 5.5
+    Runtime Version: 5.0
+    Compute Capability: 3.5
+    Multiprocessors: 13
+    Max threads per multiprocessor:  2048
+    Max threads per block: 1024
+    Shared Memory per block: 48 kB
+    Maximum sizes of each dimension of a block: 1024 x 1024 x 64
+
+
+> Using device 0...
+
+c: 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 
+cS: 0.5 1.5 2.5 3.5 4.5 5.5 6.5 7.5 8.5 9.5 10.5 11.5 12.5 13.5 14.5 15.5 16.5 17.5 18.5 19.5 20.5 21.5 22.5 23.5 24.5 25.5 26.5 27.5 28.5 29.5 30.5 31.5 
+Base fitness: 1 
+rs_base: 0 
+rg: 2 
+ensembles: 1 2 3 4 5 6 7 8 9 10 
+mutation rate: 0.5 
+move steps: 2000 
+
+Particles:
+ancID 	gID   	wA   	Rs   	ng   	kg   	fit  	wkg  
+0	0	0	1	1	0	0	0
+1	373	0	1	2	0	0	0
+2	2	0	1	1	0	0	0
+3	3	0	1	1	0	0	0
+4	4	0	1	1	0	0	0
+
+
+> Launch Experiment: ens_n(1024)_nm(2000)_rd(-1)_mu(0.5)_fb(1)_as(300)_rg(2)_runSet(1)
+   > Simulate 2000 generations, plot after every 80 steps.
+   > ......................... > DONE. | t = 1:40.1218 hh:mm.
+
+Particles:
+ancID 	gID   	wA   	Rs   	ng   	kg   	fit  	wkg  
+0	0	0	1	1	0	0	0
+1	12	0	1	2	0	0	0
+2	2	0	1	1	0	0	0
+3	740	0	1	2	0	0	0
+4	4	0	1	1	0	0	0
+
+
+> Launch Experiment: ens_n(1024)_nm(2000)_rd(-1)_mu(0.5)_fb(1)_as(300)_rg(2)_runSet(2)
+   > Simulate 2000 generations, plot after every 80 steps.
+   > ......................... > DONE. | t = 1:39.6089 hh:mm.
+
+Particles:
+ancID 	gID   	wA   	Rs   	ng   	kg   	fit  	wkg  
+0	0	0	1	1	0	0	0
+1	1	0	1	1	0	0	0
+2	2	0	1	1	0	0	0
+3	3	0	1	1	0	0	0
+4	4	0	1	1	0	0	0
+
+
+> Launch Experiment: ens_n(1024)_nm(2000)_rd(-1)_mu(0.5)_fb(1)_as(300)_rg(2)_runSet(3)
+   > Simulate 2000 generations, plot after every 80 steps.
+   > ......................... > DONE. | t = 1:39.6887 hh:mm.
+
+Particles:
+ancID 	gID   	wA   	Rs   	ng   	kg   	fit  	wkg  
+0	0	0	1	1	0	0	0
+1	1	0	1	1	0	0	0
+2	2	0	1	1	0	0	0
+3	3	0	1	1	0	0	0
+4	4	0	1	1	0	0	0
+
+
+> Launch Experiment: ens_n(1024)_nm(2000)_rd(-1)_mu(0.5)_fb(1)_as(300)_rg(2)_runSet(4)
+   > Simulate 2000 generations, plot after every 80 steps.
+   > ......................... > DONE. | t = 1:39.9877 hh:mm.
+
+Particles:
+ancID 	gID   	wA   	Rs   	ng   	kg   	fit  	wkg  
+0	207	0	1	2	0	0	0
+1	1	0	1	1	0	0	0
+2	2	0	1	1	0	0	0
+3	3	0	1	1	0	0	0
+4	4	0	1	1	0	0	0
+
+
+> Launch Experiment: ens_n(1024)_nm(2000)_rd(-1)_mu(0.5)_fb(1)_as(300)_rg(2)_runSet(5)
+   > Simulate 2000 generations, plot after every 80 steps.
+   > ......................... > DONE. | t = 1:39.7413 hh:mm.
+
+Particles:
+ancID 	gID   	wA   	Rs   	ng   	kg   	fit  	wkg  
+0	0	0	1	1	0	0	0
+1	1	0	1	1	0	0	0
+2	2	0	1	1	0	0	0
+3	3	0	1	1	0	0	0
+4	4	0	1	1	0	0	0
+
+
+> Launch Experiment: ens_n(1024)_nm(2000)_rd(-1)_mu(0.5)_fb(1)_as(300)_rg(2)_runSet(6)
+   > Simulate 2000 generations, plot after every 80 steps.
+   > ......................... > DONE. | t = 1:39.4828 hh:mm.
+
+Particles:
+ancID 	gID   	wA   	Rs   	ng   	kg   	fit  	wkg  
+0	0	0	1	1	0	0	0
+1	1	0	1	1	0	0	0
+2	2	0	1	1	0	0	0
+3	3	0	1	1	0	0	0
+4	300	0	1	2	0	0	0
+
+
+> Launch Experiment: ens_n(1024)_nm(2000)_rd(-1)_mu(0.5)_fb(1)_as(300)_rg(2)_runSet(7)
+   > Simulate 2000 generations, plot after every 80 steps.
+   > ......................... > DONE. | t = 1:40.0645 hh:mm.
+
+Particles:
+ancID 	gID   	wA   	Rs   	ng   	kg   	fit  	wkg  
+0	0	0	1	1	0	0	0
+1	1	0	1	1	0	0	0
+2	2	0	1	1	0	0	0
+3	3	0	1	1	0	0	0
+4	4	0	1	1	0	0	0
+
+
+> Launch Experiment: ens_n(1024)_nm(2000)_rd(-1)_mu(0.5)_fb(1)_as(300)_rg(2)_runSet(8)
+   > Simulate 2000 generations, plot after every 80 steps.
+   > ......................... > DONE. | t = 1:40.0683 hh:mm.
+
+Particles:
+ancID 	gID   	wA   	Rs   	ng   	kg   	fit  	wkg  
+0	0	0	1	1	0	0	0
+1	1	0	1	1	0	0	0
+2	2	0	1	1	0	0	0
+3	3	0	1	1	0	0	0
+4	4	0	1	1	0	0	0
+
+
+> Launch Experiment: ens_n(1024)_nm(2000)_rd(-1)_mu(0.5)_fb(1)_as(300)_rg(2)_runSet(9)
+   > Simulate 2000 generations, plot after every 80 steps.
+   > ......................... > DONE. | t = 1:42.7145 hh:mm.
+
+Particles:
+ancID 	gID   	wA   	Rs   	ng   	kg   	fit  	wkg  
+0	0	0	1	1	0	0	0
+1	1	0	1	1	0	0	0
+2	2	0	1	1	0	0	0
+3	3	0	1	1	0	0	0
+4	4	0	1	1	0	0	0
+
+
+> Launch Experiment: ens_n(1024)_nm(2000)_rd(-1)_mu(0.5)_fb(1)_as(300)_rg(2)_runSet(10)
+   > Simulate 2000 generations, plot after every 80 steps.
+   > ......................... > DONE. | t = 1:40.462 hh:mm.
+
